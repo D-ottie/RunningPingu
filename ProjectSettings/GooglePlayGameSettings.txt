@@ -1,0 +1,9 @@
+lastUpgrade=01101
+proj.pluginVersion=0.11.01
+proj.AppId=426068038880
+and.BundleId=com.ZTAD.PenguRunSD
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSPenguRunSDIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--app_id--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e426068038880%3c%2fstring%3e%0d%0a++%3c%21--package_name--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.ZTAD.PenguRunSD%3c%2fstring%3e%0d%0a++%3c%21--achievement+Log+In--%3e%0d%0a++%3cstring+name%3d%22achievement_log_in%22+translatable%3d%22false%22%3eCgkI4KmJnbMMEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--achievement+Collect+50+Coins--%3e%0d%0a++%3cstring+name%3d%22achievement_collect_50_coins%22+translatable%3d%22false%22%3eCgkI4KmJnbMMEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--achievement+Collect+100+coins--%3e%0d%0a++%3cstring+name%3d%22achievement_collect_100_coins%22+translatable%3d%22false%22%3eCgkI4KmJnbMMEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--achievement+Collect+150+coins--%3e%0d%0a++%3cstring+name%3d%22achievement_collect_150_coins%22+translatable%3d%22false%22%3eCgkI4KmJnbMMEAIQBQ%3c%2fstring%3e%0d%0a++%3c%21--achievement+Collect+200+coins--%3e%0d%0a++%3cstring+name%3d%22achievement_collect_200_coins%22+translatable%3d%22false%22%3eCgkI4KmJnbMMEAIQBg%3c%2fstring%3e%0d%0a++%3c%21--leaderboard+PenguRunSD+Leaderboard--%3e%0d%0a++%3cstring+name%3d%22leaderboard_pengurunsd_leaderboard%22+translatable%3d%22false%22%3eCgkI4KmJnbMMEAIQAQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=
+android.SetupDone=true
